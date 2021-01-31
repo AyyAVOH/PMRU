@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Surface",
-    "path": "sprites/Surface/Surface.yy",
+    "name": "spSurface",
+    "path": "sprites/spSurface/spSurface.yy",
   },
   "solid": false,
   "visible": true,

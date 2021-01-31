@@ -1,9 +1,11 @@
 {
   "resources": [
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
     {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"order":2,},
     {"id":{"name":"objSurface","path":"objects/objSurface/objSurface.yy",},"order":3,},
-    {"id":{"name":"player","path":"sprites/player/player.yy",},"order":0,},
-    {"id":{"name":"Surface","path":"sprites/Surface/Surface.yy",},"order":1,},
+    {"id":{"name":"spPlayer","path":"sprites/spPlayer/spPlayer.yy",},"order":0,},
+    {"id":{"name":"spPlayerMove","path":"sprites/spPlayerMove/spPlayerMove.yy",},"order":2,},
+    {"id":{"name":"spSurface","path":"sprites/spSurface/spSurface.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
