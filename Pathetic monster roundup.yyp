@@ -1,16 +1,22 @@
 {
   "resources": [
+    {"id":{"name":"spGrab","path":"sprites/spGrab/spGrab.yy",},"order":4,},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
     {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"order":2,},
     {"id":{"name":"objSurface","path":"objects/objSurface/objSurface.yy",},"order":3,},
     {"id":{"name":"spPlayer","path":"sprites/spPlayer/spPlayer.yy",},"order":0,},
+    {"id":{"name":"objGrab","path":"objects/objGrab/objGrab.yy",},"order":5,},
+    {"id":{"name":"spDummymon","path":"sprites/spDummymon/spDummymon.yy",},"order":3,},
     {"id":{"name":"spPlayerMove","path":"sprites/spPlayerMove/spPlayerMove.yy",},"order":2,},
     {"id":{"name":"spSurface","path":"sprites/spSurface/spSurface.yy",},"order":1,},
+    {"id":{"name":"objDummymon","path":"objects/objDummymon/objDummymon.yy",},"order":4,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"Linux","path":"options/linux/options_linux.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
   ],
   "isDnDProject": true,
   "isEcma": false,

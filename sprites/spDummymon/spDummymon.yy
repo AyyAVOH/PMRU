@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"9f73bffb-f9a1-496a-b239-0f8c44166c05","path":"sprites/spPlayer/spPlayer.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9f73bffb-f9a1-496a-b239-0f8c44166c05","path":"sprites/spPlayer/spPlayer.yy",},"LayerId":{"name":"b7d03158-855d-4e61-910d-b5f600450728","path":"sprites/spPlayer/spPlayer.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spPlayer","path":"sprites/spPlayer/spPlayer.yy",},"resourceVersion":"1.0","name":"9f73bffb-f9a1-496a-b239-0f8c44166c05","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"660864f5-e93e-4e7a-b73e-43f38eee297f","path":"sprites/spDummymon/spDummymon.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"660864f5-e93e-4e7a-b73e-43f38eee297f","path":"sprites/spDummymon/spDummymon.yy",},"LayerId":{"name":"a7083b00-73fb-4163-b405-e501e3c764ed","path":"sprites/spDummymon/spDummymon.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spDummymon","path":"sprites/spDummymon/spDummymon.yy",},"resourceVersion":"1.0","name":"660864f5-e93e-4e7a-b73e-43f38eee297f","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spPlayer","path":"sprites/spPlayer/spPlayer.yy",},
+    "spriteId": {"name":"spDummymon","path":"sprites/spDummymon/spDummymon.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"14612d4e-7206-4cc6-b639-c32d66f95e21","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9f73bffb-f9a1-496a-b239-0f8c44166c05","path":"sprites/spPlayer/spPlayer.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e4971154-5381-4298-8bc6-a0d1dbb4e806","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"660864f5-e93e-4e7a-b73e-43f38eee297f","path":"sprites/spDummymon/spDummymon.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 32,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spPlayer","path":"sprites/spPlayer/spPlayer.yy",},
+    "parent": {"name":"spDummymon","path":"sprites/spDummymon/spDummymon.yy",},
     "resourceVersion": "1.3",
-    "name": "spPlayer",
+    "name": "spDummymon",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b7d03158-855d-4e61-910d-b5f600450728","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"a7083b00-73fb-4163-b405-e501e3c764ed","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spPlayer",
+  "name": "spDummymon",
   "tags": [],
   "resourceType": "GMSprite",
 }
