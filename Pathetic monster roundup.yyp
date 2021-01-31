@@ -3,6 +3,7 @@
     {"id":{"name":"spGrab","path":"sprites/spGrab/spGrab.yy",},"order":4,},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
     {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"order":2,},
+    {"id":{"name":"objTester","path":"objects/objTester/objTester.yy",},"order":6,},
     {"id":{"name":"objSurface","path":"objects/objSurface/objSurface.yy",},"order":3,},
     {"id":{"name":"spPlayer","path":"sprites/spPlayer/spPlayer.yy",},"order":0,},
     {"id":{"name":"objGrab","path":"objects/objGrab/objGrab.yy",},"order":5,},
