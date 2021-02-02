@@ -5,7 +5,6 @@
     {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"order":2,},
     {"id":{"name":"objTester","path":"objects/objTester/objTester.yy",},"order":6,},
     {"id":{"name":"objSurface","path":"objects/objSurface/objSurface.yy",},"order":3,},
-    {"id":{"name":"objDanaDummyObject","path":"objects/objDanaDummyObject/objDanaDummyObject.yy",},"order":7,},
     {"id":{"name":"spPlayer","path":"sprites/spPlayer/spPlayer.yy",},"order":0,},
     {"id":{"name":"objGrab","path":"objects/objGrab/objGrab.yy",},"order":5,},
     {"id":{"name":"spDummymon","path":"sprites/spDummymon/spDummymon.yy",},"order":3,},
