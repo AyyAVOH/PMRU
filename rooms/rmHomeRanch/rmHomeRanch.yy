@@ -82,6 +82,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"objSurface","path":"objects/objSurface/objSurface.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":1504.0,"resourceVersion":"1.0","name":"inst_2ED49F48","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"objSurface","path":"objects/objSurface/objSurface.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":1440.0,"resourceVersion":"1.0","name":"inst_7D4E63C7","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"objSurface","path":"objects/objSurface/objSurface.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":1376.0,"resourceVersion":"1.0","name":"inst_48D7C8B6","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"objMusic","path":"objects/objMusic/objMusic.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":9.499999,"scaleY":9.499999,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":192.0,"resourceVersion":"1.0","name":"inst_4A0C10F9","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"assets":[
         {"ignore":false,"spriteId":{"name":"spSkybox1","path":"sprites/spSkybox1/spSkybox1.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":3.53125,"scaleY":3.22222233,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"inheritItemSettings":false,"x":0.0,"y":-160.0,"resourceVersion":"1.0","name":"graphic_4625D8A3","tags":[],"resourceType":"GMRSpriteGraphic",},
@@ -169,6 +170,7 @@
     {"name":"inst_2ED49F48","path":"rooms/rmHomeRanch/rmHomeRanch.yy",},
     {"name":"inst_7D4E63C7","path":"rooms/rmHomeRanch/rmHomeRanch.yy",},
     {"name":"inst_48D7C8B6","path":"rooms/rmHomeRanch/rmHomeRanch.yy",},
+    {"name":"inst_4A0C10F9","path":"rooms/rmHomeRanch/rmHomeRanch.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
