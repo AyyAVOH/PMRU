@@ -22,6 +22,7 @@
     {"id":{"name":"PMR_Quit","path":"sprites/PMR_Quit/PMR_Quit.yy",},"order":5,},
     {"id":{"name":"spStaticMon","path":"sprites/spStaticMon/spStaticMon.yy",},"order":11,},
     {"id":{"name":"spDummyMonLeft","path":"sprites/spDummyMonLeft/spDummyMonLeft.yy",},"order":12,},
+    {"id":{"name":"objTriggerJump","path":"objects/objTriggerJump/objTriggerJump.yy",},"order":14,},
     {"id":{"name":"sfx_MonsterHit","path":"sounds/sfx_MonsterHit/sfx_MonsterHit.yy",},"order":3,},
     {"id":{"name":"PMR_MuteButton","path":"sprites/PMR_MuteButton/PMR_MuteButton.yy",},"order":8,},
     {"id":{"name":"sfx_Select","path":"sounds/sfx_Select/sfx_Select.yy",},"order":2,},
