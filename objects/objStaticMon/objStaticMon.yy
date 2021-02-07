@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spDummymon",
-    "path": "sprites/spDummymon/spDummymon.yy",
+    "name": "spStaticMon",
+    "path": "sprites/spStaticMon/spStaticMon.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,10 +20,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"objDummymon","path":"objects/objDummymon/objDummymon.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"objDummymon","path":"objects/objDummymon/objDummymon.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -31,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objDummymon",
+  "name": "objStaticMon",
   "tags": [],
   "resourceType": "GMObject",
 }
