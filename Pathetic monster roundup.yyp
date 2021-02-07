@@ -42,6 +42,7 @@
     {"id":{"name":"PMR_Pause","path":"sprites/PMR_Pause/PMR_Pause.yy",},"order":9,},
     {"id":{"name":"objDummymon","path":"objects/objDummymon/objDummymon.yy",},"order":4,},
     {"id":{"name":"sfx_MainMusic","path":"sounds/sfx_MainMusic/sfx_MainMusic.yy",},"order":4,},
+    {"id":{"name":"testing","path":"sprites/testing/testing.yy",},"order":10,},
     {"id":{"name":"spFence","path":"sprites/spFence/spFence.yy",},"order":6,},
     {"id":{"name":"rmHomeRanch","path":"rooms/rmHomeRanch/rmHomeRanch.yy",},"order":0,},
   ],
