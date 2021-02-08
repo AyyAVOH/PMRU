@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"Sprite27","path":"sprites/Sprite27/Sprite27.yy",},"order":13,},
     {"id":{"name":"spGrab","path":"sprites/spGrab/spGrab.yy",},"order":4,},
     {"id":{"name":"sfx_Jump","path":"sounds/sfx_Jump/sfx_Jump.yy",},"order":0,},
     {"id":{"name":"PMR_Style_Guide","path":"sprites/PMR_Style_Guide/PMR_Style_Guide.yy",},"order":6,},
